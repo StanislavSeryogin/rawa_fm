@@ -1,0 +1,47 @@
+name: rawa_fm
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+  provider: ^6.0.1
+  url_launcher: ^6.0.18
+  font_awesome_flutter: ^9.2.0
+  get: ^4.6.1
+  cached_network_image: ^3.2.0
+  carousel_slider: ^4.0.0
+
+  audio_session: ^0.1.6+1
+  just_audio: ^0.9.20
+  just_audio_background: ^0.0.1-beta.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  flutter_native_splash: ^2.1.0
+
+flutter_native_splash:
+  color: '#3E257A'
+  image: assets/RAWA.FM_Logo_with_circle.png
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+
