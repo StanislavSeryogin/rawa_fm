@@ -22,7 +22,7 @@ class InfoCarousel extends StatelessWidget {
         autoPlay: false,
         aspectRatio: 3.0,
         enlargeCenterPage: true,
-        //enableInfiniteScroll: false,
+        enableInfiniteScroll: false,
         onPageChanged: (newIndex, _) => onPageChanged(newIndex),
       ),
       itemCount: mediaItems.length,
