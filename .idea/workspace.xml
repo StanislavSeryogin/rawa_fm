@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23285f52-891a-473c-b62f-ddd6f1c7ea92" name="Default Changelist" comment="initial rebuild app">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rawa_fm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rawa_fm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/radio_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/radio_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/audio_player_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/audio_player_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/info_carousel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/info_carousel.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +37,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="diff.base" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>

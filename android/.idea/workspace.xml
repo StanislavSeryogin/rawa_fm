@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1f4d92-a4a4-4e29-b8bb-1e3d33be0139" name="Default Changelist" comment="">
+    <list default="true" id="9c62fe97-2ae2-462f-9e9b-1e4b975ae3d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/rawa_fm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/rawa_fm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.packages" beforeDir="false" afterPath="$PROJECT_DIR$/../.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/pages/radio_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/pages/radio_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/services/audio_player_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/services/audio_player_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/widgets/info_carousel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/widgets/info_carousel.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="269X7C8xRkP6eNUPgQmsZOuPLZG" />
+  <component name="ProjectId" id="26mlFYhAwPJgw16FUSD2cnkr6by" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,11 +40,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba1f4d92-a4a4-4e29-b8bb-1e3d33be0139" name="Default Changelist" comment="" />
-      <created>1646836605280</created>
+      <changelist id="9c62fe97-2ae2-462f-9e9b-1e4b975ae3d6" name="Default Changelist" comment="" />
+      <created>1648036538447</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646836605280</updated>
+      <updated>1648036538447</updated>
     </task>
     <servers />
   </component>

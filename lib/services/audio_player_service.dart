@@ -107,8 +107,9 @@ class AudioPlayerService extends FullLifeCycleController {
     );
   }
 
-  PlayerButtons buildPlayerButtons(AsyncSnapshot<PlayerState> snapshot,
+  PlayerButtons? buildPlayerButtons(AsyncSnapshot<PlayerState> snapshot,
       AudioPlayer audioPlayer) {
+    if(snapshot.data == null) return null;
     return PlayerButtons(
       playerState: snapshot.data!,
       onPlayTap: audioPlayer.play,

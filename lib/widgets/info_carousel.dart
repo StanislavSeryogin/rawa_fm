@@ -22,7 +22,7 @@ class InfoCarousel extends StatelessWidget {
         autoPlay: false,
         aspectRatio: 3.0,
         enlargeCenterPage: true,
-        enableInfiniteScroll: false,
+        //enableInfiniteScroll: false,
         onPageChanged: (newIndex, _) => onPageChanged(newIndex),
       ),
       itemCount: mediaItems.length,
@@ -32,7 +32,8 @@ class InfoCarousel extends StatelessWidget {
           int pageViewIndex,
           ) {
 
-        final item = mediaItems[itemIndex]; // error here
+        if(mediaItems.isEmpty) return Container();
+        final item = mediaItems[itemIndex];
 
         return Column(
           mainAxisAlignment: MainAxisAlignment.center,

@@ -59,7 +59,7 @@ class RadioPage extends StatelessWidget {
                   stream: audioPlayer.playerStateStream,
                   builder: (context, snapshot) {
                     return AudioPlayerService()
-                        .buildPlayerButtons(snapshot, audioPlayer);
+                        .buildPlayerButtons(snapshot, audioPlayer) ?? Container();
                   },
                 ),
                 const SizedBox(height: 10,)
